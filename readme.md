@@ -5,7 +5,9 @@
 
 This is a workout tracker application created using Mongo database with a Mongoose schema and handle routes with Express. This application will make it easy for a user to reach their fitness goals by being able to track their progress.
 
-![Alt text](/public/Sample.png "App Demo")
+## App Demo
+
+<img src="/public/Sample.png"/> 
 
 ## Table of Contents 
 
