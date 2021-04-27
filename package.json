@@ -1,0 +1,19 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindaHlubi/Workout-Tracker.git"
+  },
+  "author": "Linda lubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindaHlubi/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/LindaHlubi/Workout-Tracker#readme"
+}
