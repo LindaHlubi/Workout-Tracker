@@ -8,6 +8,8 @@ This is a workout tracker application created using Mongo database with a Mongoo
 ## App Demo
 
 <img src="/public/Sample.png"/> 
+<br>
+<img src="/public/analytics(demo)"/>
 
 ## Table of Contents 
 
