@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/LindaHlubi/Workout-Tracker#readme",
   "dependencies": {
+    "env": "0.0.2",
     "express": "^4.17.1",
     "mongoose": "^5.12.5",
     "morgan": "^1.10.0",
+    "process": "^0.11.10",
     "seed": "^0.4.4"
   }
 }
